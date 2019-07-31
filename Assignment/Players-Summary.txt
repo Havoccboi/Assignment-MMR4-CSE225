@@ -1,0 +1,56 @@
+ID: 1
+Name:  Mahfuzur Rahman
+Total Run: 379
+Average Run: 37.9
+Maximum Run: 62
+Minimum Run: 2
+
+ID: 2
+Name:  Kalam Hossain
+Total Run: 377
+Average Run: 37.7
+Maximum Run: 78
+Minimum Run: 0
+
+ID: 3
+Name:  Salam Mahbub
+Total Run: 407
+Average Run: 40.7
+Maximum Run: 88
+Minimum Run: 0
+
+ID: 4
+Name:  Farid Hossain
+Total Run: 387
+Average Run: 38.7
+Maximum Run: 87
+Minimum Run: 0
+
+ID: 5
+Name:  Rubel Rahman
+Total Run: 234
+Average Run: 23.4
+Maximum Run: 42
+Minimum Run: 4
+
+ID: 6
+Name:  Sazid Rahman
+Total Run: 319
+Average Run: 31.9
+Maximum Run: 61
+Minimum Run: 2
+
+ID: 7
+Name:  Redwanul Karim
+Total Run: 458
+Average Run: 45.8
+Maximum Run: 102
+Minimum Run: 12
+
+ID: 8
+Name:  Kalyan Roy
+Total Run: 527
+Average Run: 52.7
+Maximum Run: 100
+Minimum Run: 18
+

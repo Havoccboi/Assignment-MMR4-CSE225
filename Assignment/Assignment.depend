@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1564553148 source:c:\users\havoc-pc\documents\codeblocks\assignment\itemtype.cpp
+	"itemtype.h"
+
+1564552952 c:\users\havoc-pc\documents\codeblocks\assignment\itemtype.h
+	<iostream>
+	<string>
+	<vector>
+
